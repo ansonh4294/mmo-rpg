@@ -1,3 +1,3 @@
-# mmo-rpg
+# MMO-RPG
 ---
 [Start Game](../Beginning)
