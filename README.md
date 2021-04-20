@@ -1,3 +1,3 @@
 # MMO-RPG
 ---
-[Start Game](../Beginning)
+[Start Game](Beginning.md)
