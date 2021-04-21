@@ -4,4 +4,4 @@ And beat the game.
 
 Good let see you try some of the other class.
 
-## [start over](../beginning.md)
+## [start over](../Beginning.md)
