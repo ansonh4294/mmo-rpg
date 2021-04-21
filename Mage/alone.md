@@ -3,5 +3,5 @@
 The good new you found a team.
 Would you like to Join
 
-[YES](yes.md)
-[NO](No.md)
+## [YES](yes.md)
+## [NO](No.md)
