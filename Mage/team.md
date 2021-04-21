@@ -3,4 +3,4 @@ And beat the game.
 ![Gold Chest ]()
 
 Good let see you try some of the other class.
-[start over](../Beginning.)
+[start over](../beginning.md)
