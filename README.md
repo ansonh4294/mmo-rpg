@@ -1,7 +1,7 @@
 # MMO-RPG
 # Me and my friends thought it will be found making a mmo-rpg for this project 
-# so this is what we went with I hope you have fun. 
-# And work at the same repo at the same time.
+# This is what we went with I hope you have fun. 
+# The purpose of this project was to collab on this repo.
 
 ---
 # [Start Game](Beginning.md)
