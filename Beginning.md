@@ -1,5 +1,5 @@
 # Pick your class
 ---
 ## [Mage](Mage/ClassMage.md)
-## [Swordsman](Swordmen/)
+## [Swordman](Swordmen/ClassSwordsmen.md)
 ## [Archer](Archer/ClassArcher.md)
